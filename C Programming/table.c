@@ -1,4 +1,4 @@
-//5.write a C program to disaply of giver numbers in format of (2x1).
+//5.write a C program to disaply of given numbers in format of (2x1).
 
 #include <stdio.h>
 
